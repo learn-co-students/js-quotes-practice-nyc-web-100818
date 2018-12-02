@@ -11,13 +11,14 @@
 </head>
 <body class='container center'>
   <h1>My favorite quotes:</h1>
+  <h4>Sort Quotes by Author:</h4><button id="filter-by-author">ON</button>
   <div>
     <ul id="quote-list">
     </ul>
   </div>
   <hr>
-  <div>
-    <form id="new-quote-form">
+  <div id="forms-div">
+    <form id="new-quote-form" hidden>
       <div class="form-group">
         <label for="new-quote">New Quote</label>
         <input type="text" class="form-control" id="new-quote" placeholder="Learn. Love. Code.">
@@ -26,9 +27,21 @@
         <label for="Author">Author</label>
         <input type="text" class="form-control" id="author" placeholder="Flatiron School">
       </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" class="btn btn-primary">Create!</button>
     </form>
   </div>
+  <form id="edit-quote-form" hidden>
+     <div class="form-group">
+       <label for="new-quote">Edit that Quote</label>
+       <input type="text" class="form-control" id="edited-quote" placeholder="Learn. Love. Code.">
+     </div>
+     <div class="form-group">
+       <label for="Author">Author</label>
+       <input type="text" class="form-control" id="author-edited" placeholder="Flatiron School">
+     </div>
+     <button type="submit" class="btn btn-primary">Submit Ur Editz</button>
+   </form>
+
   <script src="src/index.js"></script>
 </body>
 </html>

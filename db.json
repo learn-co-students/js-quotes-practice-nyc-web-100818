@@ -1,41 +1,52 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "Don't count the days, make the days count.",
+      "quote": "2 be or not to be that is the question",
       "likes": 1,
-      "author": "Mike Tyson"
+      "author": "Shakeuhspeer",
+      "id": 2
     },
     {
-      "id": 2,
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "likes": 1,
-      "author": "Collin Powell"
+      "quote": "I like cheese",
+      "likes": 1111,
+      "author": "A man",
+      "id": 3
     },
     {
-      "id": 3,
-      "quote": "Tell me and I forget, teach me and I remember, involve me and I learn.",
-      "likes": 1,
-      "author": "Benjamin Franklin"
+      "quote": "to be or not to be",
+      "likes": 0,
+      "author": "shakespeare",
+      "id": 5
     },
     {
-      "id": 4,
-      "quote": "Our greatest glory is not in never falling, but in rising everytime we fall.",
-      "likes": 1,
-      "author": "Confucius"
+      "quote": "I like cheese",
+      "likes": 11,
+      "author": "A man",
+      "id": 6
     },
     {
-      "id": 5 ,
-      "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
-      "likes": 1,
-      "author": "Winston Churchhill"
-    },
-    {
-      "id": 6,
+      "id": 7,
       "quote": "Perseverance is the hard work you do after you get tired of doing the hard work you already did.",
-      "likes": 1,
+      "likes": 711,
       "author": "Newt Gingrich"
+    },
+    {
+      "quote": "to be or not to be",
+      "likes": 0,
+      "author": "shakespeare",
+      "id": 8
+    },
+    {
+      "quote": "I like cheese",
+      "likes": 0,
+      "author": "A man",
+      "id": 9
+    },
+    {
+      "quote": "poodles will rule",
+      "likes": 1,
+      "author": "steven",
+      "id": 10
     }
-
   ]
 }
