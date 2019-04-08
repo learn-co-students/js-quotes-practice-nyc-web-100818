@@ -47,6 +47,17 @@
       "quote": "Waiting for promises before rendering is great (and if I change my mind I can edit this)",
       "likes": 17,
       "id": 8
+    },
+    {
+      "quote": "test quote",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "author": "author2",
+      "quote": "test quote 2",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
